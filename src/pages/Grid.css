@@ -20,10 +20,12 @@
         font-size: 10px;
     }
 }
-.red-grid .box {
-    background-color: rgb(255, 0, 0, .5);
+.box {
     border: 1px solid black;
     transition: .4s;
+}
+.red-grid .box {
+    background-color: rgb(255, 0, 0, .5);
 }
 .red-grid .box:hover {
     cursor: pointer;
@@ -32,8 +34,6 @@
 
 .blue-grid .box {
     background-color: rgba(0, 26, 255, 0.5);
-    border: 1px solid black;
-    transition: .4s;
 }
 .blue-grid .box:hover {
     cursor: pointer;
@@ -42,8 +42,6 @@
 
 .green-grid .box {
     background-color: rgba(0, 255, 34, 0.5);
-    border: 1px solid black;
-    transition: .4s;
 }
 .green-grid .box:hover {
     cursor: pointer;
@@ -52,8 +50,6 @@
 
 .yellow-grid .box {
     background-color: rgba(251, 255, 0, 0.5);
-    border: 1px solid black;
-    transition: .4s;
 }
 .yellow-grid .box:hover {
     cursor: pointer;
