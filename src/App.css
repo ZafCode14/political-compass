@@ -25,7 +25,7 @@ p {
   hyphens: auto; /* Enable hyphenation */
 }
 .size2 {
-  font-size: .9vw;
+  font-size: .8vw;
   font-weight: bold;
   width: 90%;
   word-wrap: break-word; /* For older browsers */
